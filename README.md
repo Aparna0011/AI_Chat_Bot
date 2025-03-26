@@ -1,1 +1,1 @@
-# AI_Chat_Bot
+An AI Chatbot powered by Natural Language Processing (NLP) is a conversational system that understands and responds to user queries in a human-like manner. It is widely used in customer service, virtual assistants, healthcare, and e-commerce.
